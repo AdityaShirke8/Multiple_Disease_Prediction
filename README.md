@@ -55,7 +55,7 @@ Multiple_Disease_Prediction/
 
 ## Contributing
 
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
+- If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 ---
 
 **Author:** Aditya Shirke

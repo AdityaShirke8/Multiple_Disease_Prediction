@@ -54,7 +54,7 @@ Multiple_Disease_Prediction/
 - **Parkinson's Disease Prediction Model**: Analyzes vocal parameters to detect Parkinson's symptoms.
 
 ## Contributing
-
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 ---
 **Author:** Aditya Shirke
 
